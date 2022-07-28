@@ -1,12 +1,8 @@
 # Base Python Project
 ### 'all set to start from scratch' 8-)
-
-
 ---
-<br>
 
-##### ___its dangerous to go alone, take this:___
-<br>
+#### ___its dangerous to go alone, take this:___
 
 1. Setup:
     ```
