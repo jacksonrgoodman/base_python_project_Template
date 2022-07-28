@@ -1,7 +1,22 @@
 # Base Python Project
-all set to start from scratch
+### 'all set to start from scratch' 8-)
 
-its dangerous to go alone, take this:
-```
-python -m venv .env
-```
+
+---
+<br>
+
+##### ___its dangerous to go alone, take this:___
+<br>
+
+1. Setup:
+    ```
+    python -m venv .env
+    ```
+2. Activate:
+    ```
+    .env\scripts\activate
+    ```
+3. After Install:
+    ```
+    pip freeze > requirements.txt
+    ```
