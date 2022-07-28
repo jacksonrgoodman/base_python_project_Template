@@ -16,3 +16,10 @@
     ```
     pip freeze > requirements.txt
     ```
+4. On Another Machine:
+    ```
+    pip install -r requirements.txt
+    ```
+    
+### Check Yourself:
+    pip list
