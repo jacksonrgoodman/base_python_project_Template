@@ -1,5 +1,5 @@
 # Base Python Project
-### 'all set to start from scratch' 8-)
+### all set to start from scratch 8-)
 ---
 
 #### ___its dangerous to go alone, take this:___
