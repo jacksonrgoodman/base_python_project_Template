@@ -4,19 +4,23 @@
 
 #### ___its dangerous to go alone, take this:___
 
-1. Setup:
+1. Enter source directory:
+    ```
+    cd src/
+    ```
+2. Setup Environment:
     ```
     python -m venv .env
     ```
-2. Activate:
+3. Activate:
     ```
     .env\scripts\activate
     ```
-3. After Install:
+4. After Install:
     ```
     pip freeze > requirements.txt
     ```
-4. On Another Machine:
+5. On Another Machine:
     ```
     pip install -r requirements.txt
     ```
